@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Akhila
 
-I'm a former **Software Engineer II** with real-world experience in building dynamic web applications using **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel**, **CodeIgniter**, and **SQL**. After years of developing production-ready software, I'm now pivoting into the world of **modern full-stack developer**.
+I'm a former **Software Engineer II** with real-world experience in building dynamic web applications using **HTML**, **CSS**, **JavaScript**, **PHP**, **React** and **SQL**. After years of developing production-ready software, I'm now pivoting into the world of **modern full-stack developer**.
 
 ## 🚀 Transitioning to Full-Stack Developer
 

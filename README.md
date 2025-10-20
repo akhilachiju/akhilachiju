@@ -33,7 +33,7 @@ I’m actively building personal projects, solving real-world problems, and shar
 - Learn TypeScript and apply it in production-level apps  
 - Explore SQL and NoSQL data models deeper (PostgreSQL & MongoDB)  
 - Contribute to open source projects  
-- Land a full-time **JavaScript-focused developer role** in 2025
+- Land a full-time **JavaScript-focused developer role** in 2026
 
 ---
 

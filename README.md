@@ -19,7 +19,7 @@ I’m actively building personal projects, solving real-world problems, and shar
 ## 📌 Previous Experience
 
 **Software Engineer II**  
-- Built and maintained full-featured web applications with PHP, Laravel, CodeIgniter  
+- Built and maintained full-featured web applications with PHP
 - Developed responsive UIs with HTML, CSS, and vanilla JavaScript  
 - Designed and queried relational databases using **SQL**  
 - Implemented backend logic, user authentication, and REST APIs  

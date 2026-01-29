@@ -17,8 +17,6 @@ Responsibilities include:
 
 Project is currently under active development and not yet publicly released.
 
----
-
 ## Transitioning to Full-Stack Developer
 
 Currently, I'm focused on deepening my skills in:
@@ -32,8 +30,6 @@ Currently, I'm focused on deepening my skills in:
 
 I’m actively building personal projects, solving real-world problems, and sharing my journey through code. My GitHub is a reflection of continuous learning and growth
 
----
-
 ## Current Goals
 
 - Master React and modern frontend workflows  
@@ -41,11 +37,7 @@ I’m actively building personal projects, solving real-world problems, and shar
 - Explore SQL and NoSQL data models deeper (PostgreSQL & MongoDB)  
 - Contribute to open source projects  
 
----
-
 “Reinvention is part of growth — I’m not starting from scratch, I’m starting from experience.”
-
----
 
 ## Let's Connect
 

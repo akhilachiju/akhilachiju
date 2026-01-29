@@ -8,8 +8,6 @@ Full-stack Developer (Volunteer Contributor)
 
 Private Pre-Launch Marketplace Application · Part-time . Jan 2026 - Present.
 
-Voluntarily contributing to a private, pre-launch marketplace application.
-
 Responsibilities include:
 - Partnered with the product owner during the MVP phase to define features and UX direction.
 - Built UI-driven full-stack features and implemented CRUD operations for core entities including users, listings, and bookings.

@@ -1,19 +1,19 @@
 # Hey there! 👋 I'm Akhila
 
-I'm a former Software Engineer with real-world experience in building dynamic web applications using HTML, CSS, JavaScript, PHP, React and SQL. After years of developing production-ready software, I'm now pivoting into the world of full-stack developer.
+I'm a Software Engineer with experience in web application development using JavaScript, REST APIs, and databases. Hands-on experience with React and backend development using Node.js and PHP. Currently enhancing full-stack skills through professional projects and a Full Stack Bootcamp at ReDI School. Interested in building reliable, user-focused software in collaborative teams.
 
 ## Current Experience
 
-Full-stack Developer(Project Contributor)
+Full-stack Developer(Volunteer Contributor)
 
-Private Pre-Launch Marketplace Application · Part-time
+Private Pre-Launch Marketplace Application · Part-time . Jan 2026 - Present
 Voluntarily contributing to a private, pre-launch marketplace application.
 
 Responsibilities include:
-- Developing and refining UI-focused full-stack features for the web application
-- Implementing CRUD functionality for core entities (users, listings, bookings, etc.)
-- Integrating and testing payment gateway workflows (end-to-end flow, validation, and error handling)
-- Collaborating with the product owner during the MVP phase to shape feature requirements and UX decisions
+- Partnered with the product owner during the MVP phase to define features and UX direction.
+- Built UI-driven full-stack features and implemented CRUD operations for core entities including users, listings, and bookings.
+- Integrated and tested end-to-end payment workflows with validation and error handling.
+- Explored AI-assisted development workflows for documentation, debugging, and feature ideation.
 
 Project is currently under active development and not yet publicly released.
 
@@ -40,7 +40,6 @@ I’m actively building personal projects, solving real-world problems, and shar
 - Learn TypeScript and apply it in production-level apps  
 - Explore SQL and NoSQL data models deeper (PostgreSQL & MongoDB)  
 - Contribute to open source projects  
-- Land a full-time **JavaScript-focused developer role** in 2026
 
 ---
 

@@ -4,7 +4,7 @@ I'm a Software Engineer with experience in web application development using Jav
 
 ## Current Experience
 
-Full-stack Developer(Volunteer Contributor)
+Full-stack Developer (Volunteer Contributor)
 
 Private Pre-Launch Marketplace Application · Part-time . Jan 2026 - Present
 Voluntarily contributing to a private, pre-launch marketplace application.
